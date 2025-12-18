@@ -111,7 +111,7 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 > Below are sample screenshots showcasing key features of the application.
 
 ### 🔐 Login & Authentication
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.PNG)
 
 ## 👨‍💻 Role & Responsibilities
 
