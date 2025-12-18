@@ -1,6 +1,6 @@
 # Anup Mondal
 
-**Backend Engineer | Python & Django | Remote**
+**Backend Engineer | Python & Django | DevOps | Remote**
 
 Backend-focused Software Engineer with **7+ years of professional experience** designing, developing, and deploying **scalable, production-grade backend systems**. Specialized in **Python, Django, and Django REST Framework**, with strong experience in databases, Docker, and CI/CD pipelines. Proven track record of delivering high-quality solutions in **remote, distributed teams**.
 
