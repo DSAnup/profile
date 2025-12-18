@@ -111,7 +111,7 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 > Below are sample screenshots showcasing key features of the application.
 
 ### 🔐 Login & Authentication
-![Login Page](screenshots/login.PNG)
+![Login Page](screenshots/wpms/login.PNG)
 
 ## 👨‍💻 Role & Responsibilities
 
@@ -123,6 +123,32 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 - Prepared application for containerized deployment with Docker
 
 ---
+### 🔐 Login & Authentication
+![Login Page](screenshots/wpms/login.PNG)
+
+---
+
+### 📊 Dashboard Overview
+![Dashboard](screenshots/wpms/dashboard1.PNG)
+![Dashboard](screenshots/wpms/dashboard2.PNG)
+
+---
+
+### 💰 Expense & Earnings Management
+![Financial Management](screenshots/wpms/dashboard4.PNG)
+![Financial Management](screenshots/wpms/dashboard5.PNG)
+![Financial Management](screenshots/wpms/dashboard6.PNG)
+
+---
+
+### 📋 Tasks & Projects
+![Tasks and Projects](screenshots/wpms/dashboard7.PNG)
+![Tasks and Projects](screenshots/wpms/dashboard8.PNG)
+
+---
+
+### 📓 Calender
+![Diary Module](screenshots/wpms/dashboard3.PNG)
 
 ## 📌 Use Cases
 
