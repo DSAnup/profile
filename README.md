@@ -1,6 +1,6 @@
 # Anup Mondal
 
-**Senior Backend Engineer | Python & Django | Remote**
+**Backend Engineer | Python & Django | Remote**
 
 Backend-focused Software Engineer with **7+ years of professional experience** designing, developing, and deploying **scalable, production-grade backend systems**. Specialized in **Python, Django, and Django REST Framework**, with strong experience in databases, Docker, and CI/CD pipelines. Proven track record of delivering high-quality solutions in **remote, distributed teams**.
 
@@ -23,18 +23,20 @@ Backend-focused Software Engineer with **7+ years of professional experience** d
 - Python
 - Django
 - Django REST Framework (DRF)
-- PHP (CodeIgniter, Laravel)
+- PHP (CodeIgniter)
+- Coldfusion
 
 ### Databases
 - MySQL
 - PostgreSQL
+- MSSQL Server
 
 ### DevOps & Infrastructure
 - Docker
 - CI/CD Pipelines
 - Git & GitHub
-- VPS, AWS, DigitalOcean, Heroku
-- cPanel
+- Bash, Vagrant, VPS, AWS
+- Linux
 
 ### Frontend & Supporting Technologies
 - JavaScript, AJAX
@@ -73,7 +75,7 @@ Backend-focused Software Engineer with **7+ years of professional experience** d
 - Designed and developed dynamic web applications based on project requirements  
 - Built REST APIs and integrated third-party services (Google, Facebook, etc.)  
 - Deployed applications to AWS, Heroku, and DigitalOcean  
-- Worked extensively with Django, CodeIgniter, Laravel, and WordPress  
+- Worked extensively with Django, CodeIgniter and WordPress  
 
 ---
 
@@ -117,7 +119,7 @@ Atish Dipankar University of Science & Technology
 - 📧 Email: **anup12.m@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/dsanup/  
 - 📍 Location: Dhaka, Bangladesh  
-- 🌍 Open to **Remote Backend Engineer Opportunities**
+- 🌍 Open to **Remote Backend Engineer / Devops Opportunities**
 
 ---
 
