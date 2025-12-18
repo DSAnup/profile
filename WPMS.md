@@ -39,9 +39,10 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 ## 🛠️ Technology Stack
 
 - **Backend:** Python, Django, Django REST Framework (DRF)
-- **Database:** MySQL (Primary), PostgreSQL (Scalable-ready)
+- **Database:** MySQL (Primary)
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, AJAX
-- **DevOps & Tools:** Docker, Git, GitHub
+- **DevOps & Tools:** Docker, Git, GitHub, GitHub Action
+- **Server & Service** Nginx, Gunicorn
 - **Security:** User-based access control & data isolation
 
 ---
