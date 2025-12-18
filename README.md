@@ -17,6 +17,16 @@ Backend-focused Software Engineer with **7+ years of professional experience** d
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧾 Personal Management System (PMS)
+A full-featured web-based system for managing personal finances, tasks, projects, and diary entries.
+
+- **Tech Stack:** Python, Django, Django REST Framework, MySQL, Bootstrap
+- 👉 **[View Project Details](./wpms.md)**
+
+---
+
 ## Core Skills
 
 ### Backend
