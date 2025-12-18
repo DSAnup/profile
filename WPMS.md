@@ -106,6 +106,12 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 - Scalable architecture ready for future expansion
 
 ---
+## 🖼️ Screenshots
+
+> Below are sample screenshots showcasing key features of the application.
+
+### 🔐 Login & Authentication
+![Login Page](screenshots/login.png)
 
 ## 👨‍💻 Role & Responsibilities
 
