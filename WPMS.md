@@ -114,19 +114,6 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 ### 🔐 Login & Authentication
 ![Login Page](screenshots/wpms/login.PNG)
 
-## 👨‍💻 Role & Responsibilities
-
-- Designed database schema and backend architecture
-- Developed RESTful APIs using Django REST Framework
-- Implemented authentication and user-based access control
-- Optimized database queries and indexing
-- Integrated frontend using Bootstrap and AJAX
-- Prepared application for containerized deployment with Docker
-
----
-### 🔐 Login & Authentication
-![Login Page](screenshots/wpms/login.PNG)
-
 ---
 
 ### 📊 Dashboard Overview
@@ -150,6 +137,19 @@ All data is **strictly user-owned**, ensuring privacy and secure access. Each us
 
 ### 📓 Calender
 ![Diary Module](screenshots/wpms/dashboard3.PNG)
+
+---
+
+## 👨‍💻 Role & Responsibilities
+
+- Designed database schema and backend architecture
+- Developed RESTful APIs using Django REST Framework
+- Implemented authentication and user-based access control
+- Optimized database queries and indexing
+- Integrated frontend using Bootstrap and AJAX
+- Prepared application for containerized deployment with Docker
+
+---
 
 ## 📌 Use Cases
 
