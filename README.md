@@ -27,6 +27,14 @@ A full-featured web-based system for managing personal finances, tasks, projects
 
 ---
 
+### 🧾 Law Firm Management System (LFMS)
+A full-featured web-based system for Case, hearing, document & billing automation platform for law firms.
+
+- **Tech Stack:** Python, Django, MySQL, Bootstrap
+- 👉 **[View Project Details](./projects/lfms.md)**
+
+---
+
 ## Core Skills
 
 ### Backend
