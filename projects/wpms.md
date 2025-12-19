@@ -6,11 +6,6 @@ Built with **Python, Django, and Django REST Framework**, this project focuses o
 
 ---
 
-## 🌐 Live Demo
-
-**URL:** https://wpms.wapssolution.com/login/?next=/
-
-
 ## 🎯 Objective
 
 The objective of the **Personal Management System** is to provide users with a **centralized platform** to efficiently manage daily finances, tasks, projects, diary entries, and personal activities.

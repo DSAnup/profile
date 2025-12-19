@@ -19,19 +19,11 @@ Backend-focused Software Engineer with **7+ years of professional experience** d
 
 ## 🚀 Featured Projects
 
-### 🧾 Personal Management System (PMS)
-A full-featured web-based system for managing personal finances, tasks, projects, and diary entries.
-
-- **Tech Stack:** Python, Django, Django REST Framework, MySQL, Bootstrap
-- 👉 **[View Project Details](./projects/wpms.md)**
-
----
-
-### 🧾 Law Firm Management System (LFMS)
-A full-featured web-based system for Case, hearing, document & billing automation platform for law firms.
-
-- **Tech Stack:** Python, Django, MySQL, Bootstrap
-- 👉 **[View Project Details](./projects/lfms.md)**
+| Project Name | Description | Tech Stack | Details |
+|-------------|-------------|------------|---------|
+| **Personal Management System (PMS)** | Web-based system for managing personal finances, tasks, projects, and diary entries | Python, Django, DRF, MySQL, Bootstrap | 👉 [View](./projects/wpms.md) |
+| **Law Firm Management System (LFMS)** | Case, hearing, document & billing automation platform for law firms | Python, Django, MySQL, Bootstrap | 👉 [View](./projects/lfms.md) |
+| **WAPS Solution** | Company website and service platform for web, software, and hosting solutions | Django, Bootstrap, MySQL, Nginx | 👉 [View](./projects/wapssolution.md) |
 
 ---
 
