@@ -2,24 +2,34 @@
 
 **Backend Engineer | Python & Django | DevOps | Remote**
 
-![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
-![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple?logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?logo=javascript)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-success)
-![VPS](https://img.shields.io/badge/VPS-Production%20Server-orange)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+### 🛠 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![ColdFusion](https://img.shields.io/badge/ColdFusion-00B2FF?style=flat&logo=adobe-coldfusion&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![sPHP](https://img.shields.io/badge/sPHP-Custom-777BB4?logo=php)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### 🌐 Frontend & Data
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-005C84?logo=javascript&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+
+### ☁ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Hosting-232F3E?logo=amazon-aws)
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
-![ColdFusion](https://img.shields.io/badge/ColdFusion-Enterprise%20Server-00B2FF?logo=adobe-coldfusion&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-Database-CC2927?logo=microsoft-sql-server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 Backend-focused Software Engineer with **7+ years of professional experience** designing, developing, and deploying **scalable, production-grade backend systems**. Specialized in **Python, Django, and Django REST Framework**, with strong experience in databases, Docker, and CI/CD pipelines. Proven track record of delivering high-quality solutions in **remote, distributed teams**.
 
