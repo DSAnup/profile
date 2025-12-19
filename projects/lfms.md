@@ -1,5 +1,14 @@
 # Law Firm Management System (LFMS)
 
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?logo=javascript)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-success)
+![VPS](https://img.shields.io/badge/VPS-Production%20Server-orange)
+
 A secure, scalable **Law Firm Management System** designed to **digitize, automate, and centralize legal operations** for modern law firms.
 
 This platform helps law firms manage **cases, hearings, documents, billing, and payments** efficiently while ensuring **data security, transparency, and operational efficiency**.

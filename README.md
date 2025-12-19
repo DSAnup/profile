@@ -2,6 +2,25 @@
 
 **Backend Engineer | Python & Django | DevOps | Remote**
 
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?logo=javascript)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-success)
+![VPS](https://img.shields.io/badge/VPS-Production%20Server-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Hosting-232F3E?logo=amazon-aws)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
+![ColdFusion](https://img.shields.io/badge/ColdFusion-Enterprise%20Server-00B2FF?logo=adobe-coldfusion&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Database-CC2927?logo=microsoft-sql-server&logoColor=white)
+
 Backend-focused Software Engineer with **7+ years of professional experience** designing, developing, and deploying **scalable, production-grade backend systems**. Specialized in **Python, Django, and Django REST Framework**, with strong experience in databases, Docker, and CI/CD pipelines. Proven track record of delivering high-quality solutions in **remote, distributed teams**.
 
 ---

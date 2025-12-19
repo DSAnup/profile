@@ -1,4 +1,12 @@
 # Personal Management System (PMS)
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-Framework-darkgreen?logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?logo=javascript)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-success)
+![VPS](https://img.shields.io/badge/VPS-Production%20Server-orange)
 
 A secure, scalable **web-based Personal Management System** that helps users manage **finances, tasks, projects, and personal diary entries** from a single unified platform.
 
