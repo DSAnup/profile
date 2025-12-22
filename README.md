@@ -52,9 +52,11 @@ Backend-focused Software Engineer with **7+ years of experience** designing, dev
 
 | Project Name | Description | Tech Stack | Details |
 |-------------|-------------|------------|---------|
-| **Personal Management System (PMS)** | Web-based system for managing personal finances, tasks, projects, and diary entries | Python, Django, DRF, MySQL, Bootstrap | 👉 [View](./projects/wpms.md) |
-| **Law Firm Management System (LFMS)** | Case, hearing, document & billing automation platform for law firms | Python, Django, MySQL, Bootstrap | 👉 [View](./projects/lfms.md) |
-| **WAPS Solution** | Company website and service platform for web, software, and hosting solutions | Django, Bootstrap, MySQL, Nginx | 👉 [View](./projects/wapssolution.md) |
+| **Personal Management System (PMS)** | Web-based system for managing personal finances, tasks, projects, and diary entries | Python, Django, DRF, MySQL, Bootstrap | [View](./projects/wpms.md) |
+| **Law Firm Management System (LFMS)** | Case, hearing, document & billing automation platform for law firms | Python, Django, MySQL, Bootstrap | [View](./projects/lfms.md) |
+| **WAPS Solution** | Company website and service platform for web, software, and hosting solutions | Django, Bootstrap, MySQL, Nginx | [View](./projects/wapssolution.md) |
+| **Pukta** | Modern static business landing page with responsive design and Bootstrap integration | Bootstrap, Windows | [View](./projects/pukta.md) |
+| **Anup Mondal** | Modern is a dynamic full-stack personal platform showcasing the professional journey, technical expertise, and project portfolio | Django, Bootstrap, MySQL, Nginx, Github | [View](./projects/anupmondal.md) |
 
 ---
 
