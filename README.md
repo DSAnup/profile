@@ -52,6 +52,7 @@ Backend-focused Software Engineer with **7+ years of experience** designing, dev
 
 | Project Name | Description | Tech Stack | Details |
 |-------------|-------------|------------|---------|
+| **Point Of Sales** | an **single, web‑based platform** that eliminates manual cash registers and spreadsheets by enabling | Python, Django, DRF, MySQL, Bootstrap | [View](./projects/pos.md) |
 | **Resturant Management System** | Web-based system for replace manual paperwork, spreadsheets and fragmented POS solutions | Python, Django, DRF, MySQL, Bootstrap | [View](./projects/rms.md) |
 | **Personal Management System (PMS)** | Web-based system for managing personal finances, tasks, projects, and diary entries | Python, Django, DRF, MySQL, Bootstrap | [View](./projects/wpms.md) |
 | **Law Firm Management System (LFMS)** | Case, hearing, document & billing automation platform for law firms | Python, Django, MySQL, Bootstrap | [View](./projects/lfms.md) |
